@@ -1,7 +1,7 @@
 import { MongoClient, ServerApiVersion } from "mongodb";
 
 export const collectionNames = {
-  // TEST_USER: "test_user",
+  TEST_USER: "test_user",
   PRACTICE_DATA: "practice_data",
 };
 
